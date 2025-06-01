@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.e2e21419.css",
+    "main.js": "/react-resume/static/js/main.15776ada.js",
+    "static/js/453.28464e62.chunk.js": "/react-resume/static/js/453.28464e62.chunk.js",
+    "static/media/Joshua-Stevens-LinkedIn.png": "/react-resume/static/media/Joshua-Stevens-LinkedIn.64e69bb93d85ff35f3e1.png",
+    "index.html": "/react-resume/index.html",
+    "main.e2e21419.css.map": "/react-resume/static/css/main.e2e21419.css.map",
+    "main.15776ada.js.map": "/react-resume/static/js/main.15776ada.js.map",
+    "453.28464e62.chunk.js.map": "/react-resume/static/js/453.28464e62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2e21419.css",
+    "static/js/main.15776ada.js"
+  ]
+}
